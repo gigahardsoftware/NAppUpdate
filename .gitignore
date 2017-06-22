@@ -30,3 +30,6 @@ Thumbs.db
 *.orig
 packages/
 FeedBuilder/FeedBuilder.xml
+
+# Visual Studio 2017 cache/options directory
+.vs/
